@@ -1,10 +1,10 @@
-"ADD_TO_REACHABILITY" = "Zur Reachability Ansicht hinzufügen.";
+"ADD_TO_REACHABILITY" = "Zur Reachability Ansicht hinzufügen";
 
 "ALBUM_ART_CORNER_RADIUS" = "Album-Art Ecken-Radius";
 
 "ALBUM_ART_RADIUS_FOOTER_TEXT" = "Nicht bei jedem Ansichten-Layout wird eine kleine Album-Art angezeigt, aber falls die von Ihnen gewählte Ansicht es unterstützt, wird der Ecken-Radius entsprechend angepasst. \n *Nummer anklicken für manuelle Eingabe. Dezimalzahlen werden in diesem Pop-Up noch nicht unterstützt.";
 
-"ART_OVERLAY_THEME" = "Art-Overlay Aussehen";
+"ART_OVERLAY_THEME" = "Art-Overlay Maske";
 
 "CHANGE_REQUIRES_RESPRING" = "Das Auswählen dieser Option erfordert einen Respring des Geräts.";
 
@@ -34,10 +34,10 @@
 
 "TRANSLATION_CREDITS" = "Übersetzer";
 
-"USE_CUSTOM_COVER_OVERLAY" = "Benutzerdefiniertes Album-Art Overlay benutzen";
+"USE_CUSTOM_COVER_OVERLAY" = "Benutzerdefiniertes Album-Art Overlay";
 
-"USE_BLURREDVIEW_IN_CC" = "Reachability-Style im Kontrollzentrum benutzen";
+"USE_BLURREDVIEW_IN_CC" = "Reachability-Style im Kontrollzentrum";
 
-"USE_VIBRANCY_LABELS" = "Durchscheinende Schriften benutzen";
+"USE_VIBRANCY_LABELS" = "Durchscheinende Schriften";
 
 "VIBRANCY_LABELS_FOOTER" = "Durchscheinende Schriften beeinflussen nur die Reachability-Style Ansicht. Die Reachability-Style Ansicht muss für das Kontrollzentrum aktiviert sein.";
