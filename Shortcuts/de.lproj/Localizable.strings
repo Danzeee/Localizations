@@ -8,9 +8,9 @@
  */
  
 /*Settings Pane Translation*/
-"CONFIGURATION" = "Configuration";
-"ENABLE" = "Enable";
-"MAKERS" = "Makers";
+"CONFIGURATION" = "Konfiguration";
+"ENABLE" = "Aktivieren";
+"MAKERS" = "Macher";
 "SUPPORT" = "Support";
 
 /*Tweak Strings*/
@@ -18,15 +18,15 @@
 "Add Source" = "Quelle hinzufügen";
 "High:" = "Höchste:";
 "Low:" = "Niedrigste:";
-"Play/Pause" = "Play/Pause";
+"Play/Pause" = "Wiedergabe/Pause";
 "Power Off" = "Ausschalten";
 "Put Device In SafeMode" = "Gerät in den SafeMode versetzen";
 "Quick Restart Device" = "Schneller Neustart";
-"Reboot" = "Reboot";
+"Reboot" = "Neustart";
 "Respring" = "Respring";
 "Restart Device" = "Gerät neustarten";
 "SafeMode" = "SafeMode";
-"Shortcuts Weather Icon" = "Shortcuts Weather Icon";
+"Shortcuts Weather Icon" = "Shortcuts Wetter Icon";
 "Shuffle Music" = "Zufällige Wiedergabe";
 "Shuffle Now Playing Music" = "Laufende Musik zufällig wiedergeben";
 "Skip Back" = "Zurückspulen";
