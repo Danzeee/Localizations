@@ -1,36 +1,53 @@
-/*
- Localizable.strings
- Shortcuts
+/* 
+2  Localizable.strings 
+3  Shortcuts 
+4   
+5  Created by Juan Carlos Perez on 10/16/15. 
+6  Copyright © 2015 CP DigitalDarkroom. All rights reserved. 
+7 
  
- Created by Juan Carlos Perez on 10/16/15.
- Copyright © 2015 CP DigitalDarkroom. All rights reserved.
-
- */
- 
-/*Settings Pane Translation*/
-"CONFIGURATION" = "Configuration";
-"ENABLE" = "Enable";
-"MAKERS" = "Makers";
-"SUPPORT" = "Support";
-
-/*Tweak Strings*/
-"Add New Cydia Repo" = "Neue Cydia Repo hinzufügen";
-"Add Source" = "Quelle hinzufügen";
-"High:" = "Höchste:";
-"Low:" = "Niedrigste:";
-"Play/Pause" = "Play/Pause";
-"Power Off" = "Ausschalten";
-"Put Device In SafeMode" = "Gerät in den SafeMode versetzen";
-"Quick Restart Device" = "Schneller Neustart";
-"Reboot" = "Reboot";
-"Respring" = "Respring";
-"Restart Device" = "Gerät neustarten";
-"SafeMode" = "SafeMode";
-"Shortcuts Weather Icon" = "Shortcuts Weather Icon";
-"Shuffle Music" = "Zufällige Wiedergabe";
-"Shuffle Now Playing Music" = "Laufende Musik zufällig wiedergeben";
-"Skip Back" = "Zurückspulen";
-"Skip Forward" = "Vorspulen";
-"Skip to the next song" = "Zum nächsten Lied wechseln";
-"Skip to the previous song" = "Zum vorherigen Lied wechseln";
-"Turn Device Off" = "Gerät ausschalten";
+8  */ 
+9 "Add New Cydia Repo" = "Neue Cydia Quelle hinzufügen"; 
+10 "Add Source" = "Quelle hinzufügen"; 
+11 "Base Exchange" = "Standart Währung"; 
+12 "CONFIGURATION" = "Konfiguration"; 
+13 "Comparison Exchange" = "Vergleichs Währung"; 
+14 "ENABLE" = "Aktivieren"; 
+15 "Enter Safe Mode" =  "SafeMode aktivieren"; 
+16 "High:" = "Hoch:"; 
+17 "Low:" = "Tief:"; 
+18 "MAKERS" = "Macher"; 
+19 "Not Right Now" = "Nicht jetzt"; 
+20 "Play/Pause" = "Wiedergabe/Pause"; 
+21 "Power Off" = "Ausschalten"; 
+22 "Power Off Confirmation" = "Soll das Gerät ausgeschaltet werden?"; 
+23 "Put Device In SafeMode" = "Gerät in den SafeMode versetzen"; 
+24 "Quick Restart Device" = "Schneller Neustart"; 
+25 "Reboot" = "Neustart"; 
+26 "Reboot Confirmation" = "Soll das Gerät neugestartet werden?"; 
+27 "Respring" = "Respring"; 
+28 "Respring Confirmation" = "Soll ein Respring durchgeführt werden?"; 
+29 "Restart Device" = "Gerät neustarten"; 
+30 "SafeMode" = "SafeMode"; 
+31 "SafeMode Confirmation" = "Soll das Gerät in den SafeMode wechseln?"; 
+32 "Settings Icon" = "Einstellungen Icon"; 
+33 "Shortcut Item 1" = "Shortcut Element 1"; 
+34 "Shortcut Item 2" = "Shortcut Element 2"; 
+35 "Shortcut Item 3" = "Shortcut Element 3"; 
+36 "Shortcut Item 4" = "Shortcut Element 4"; 
+37 "Shortcuts Weather Icon" = "Shortcuts Wetter Icon"; 
+38 "Shuffle Music" = "Zufällige Wiedergabe"; 
+39 "Shuffle Now Playing Music" = "Laufende Musik zufällig wiedergeben"; 
+40 "Skip Back" = "Zurückspulen"; 
+41 "Skip Forward" = "Vorspulen"; 
+42 "Skip to the next song" = "Zum nächsten Lied wechseln"; 
+43 "Skip to the previous song" = "Zum vorherigen Lied wechseln"; 
+44 "Stocks Icon Footer" = "Aktuell wird nur ein Aktie unterstützt, mehr werden später möglich sein. Achte darauf das korrekte Aktien-Kürzel in der Symbolzeile einzutragen."; 
+45 "SUPPORT" = "Support"; 
+46 "Toggle Power Save" = "Stromsparmodus"; 
+47 "Toggle Wifi-Calling" = "WiFi-Calling"; 
+48 "Turn Device Off" = "Gerät ausschalten"; 
+49 "Use Celsius" = "Celsius benutzen"; 
+50 "Use Confirmation" = "Bestätigung erforderlich"; 
+51 "Use Kelvin" = "Kelvin benutzen"; 
+52 "Weather Icon Footer" = "Stelle sicher das die Standortdienste für die Wetter App in den Einstellungen aktiviert sind."; 
